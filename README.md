@@ -6,7 +6,7 @@
 
 ![preview2](https://user-images.githubusercontent.com/109727844/190862499-8015571a-152b-409e-bd82-3eaf2d3ded96.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Register-Form/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/RegisterForm2/)
 
 - 👨‍💻 Developed by pouria farahani
 
